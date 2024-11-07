@@ -8,7 +8,7 @@ export default function Header(){
         <a className="font-bold text-white" href="#">Fiona</a>
         <nav className="hidden md:block">
         <ul className="flex text-white">
-                <li><a href="/Portfolio_Fiona/">Home</a></li>
+                <li><a href="./">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Project</a></li>
                 <li><a href="#resume">Resume</a></li>
@@ -17,7 +17,7 @@ export default function Header(){
         </nav>
         {toggleMenu && <nav className="block md:hidden">
         <ul onClick={()=> setToggleMenu(!toggleMenu)} className="flex flex-col text-white mobile-nav">
-                <li><a href="/Portfolio_Fiona/">Home</a></li>
+                <li><a href="./">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Project</a></li>
                 <li><a href="#resume">Resume</a></li>
