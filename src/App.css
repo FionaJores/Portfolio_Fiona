@@ -7,14 +7,14 @@ header ul li{
 }
 
 .bg-primary{
-    background:rgb(250 128 114);
+    background:rgba(69, 48, 5);
 }
 .bg-secondary{
-    background:rgb(255, 211, 172);
+    background:rgb(131, 164, 102);
 }
 
 .mobile-nav{
-    @apply fixed top-10 left-0 bg-[#FA8072] w-full h-1/4;
+    @apply fixed top-10 left-0 bg-[#453005] w-full h-1/4;
 
 }
 .mobile-nav li{

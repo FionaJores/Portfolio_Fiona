@@ -6,12 +6,12 @@ module.exports = {
   theme: {
     extend: {
       borderColor:{
-        'primary':'rgb(255, 211, 172)',
-        'secondary':'rgb(250 128 114)'
+        'primary':'rgb(131, 164, 102)',
+        'secondary':'rgb(69, 48, 5)'
       },
       colors: {
-        primary: 'rgb(255, 211, 172)',
-        secondary: 'rgb(250 128 114)',
+        primary: 'rgb(131, 164, 102)',
+        secondary: 'rgb(69, 48, 5)',
       },
     },
     fontFamily: {
