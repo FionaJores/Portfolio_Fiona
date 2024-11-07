@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Fiona/static/css/main.efbd8064.css",
+    "main.js": "/Portfolio_Fiona/static/js/main.2ce828a4.js",
+    "static/media/class.png": "/Portfolio_Fiona/static/media/class.836b455431a4796be262.png",
+    "static/media/i3.png": "/Portfolio_Fiona/static/media/i3.b479c236858d1c516ec4.png",
+    "static/media/blog.png": "/Portfolio_Fiona/static/media/blog.bc11301dea5695c81230.png",
+    "static/media/recipe.png": "/Portfolio_Fiona/static/media/recipe.e2b64df633ea13045b14.png",
+    "static/media/about.png": "/Portfolio_Fiona/static/media/about.35176c20c454fed6bce6.png",
+    "static/media/Resume.png": "/Portfolio_Fiona/static/media/Resume.fcba547ac9e6dea4481c.png",
+    "index.html": "/Portfolio_Fiona/index.html",
+    "main.efbd8064.css.map": "/Portfolio_Fiona/static/css/main.efbd8064.css.map",
+    "main.2ce828a4.js.map": "/Portfolio_Fiona/static/js/main.2ce828a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efbd8064.css",
+    "static/js/main.2ce828a4.js"
+  ]
+}
